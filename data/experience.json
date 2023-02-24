@@ -1,26 +1,20 @@
 [
     {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v4](https://github.com/HIT-SCIR/ltp)",
-        "range": "September 2019 - NOW"
+        "role": "Audio Engineer",
+        "company": "[Storytel](https://www.storytel.com/is/is/)",
+        "summary": "Recording, editing and mixing audiobooks.",
+        "range": "May 2022 - "
     },
     {
-        "role": "Developer",
-        "company": "[Yunfutech](https://www.yunfutech.com/)",
-        "summary": "Developmet a collections of nlp tools",
-        "range": "July 2019 -  September 2019"
+        "role": "Project Manager and Sound Technician",
+        "company": "[Hljómahöll](https://www.hljomaholl.is/)",
+        "summary": "Coordinating live events, live audio mixing and content creation for the Icelandic Museum of Rock 'n' Roll.",
+        "range": "February 2019 - September 2021"
     },
     {
-        "role": "Developer",
-        "company": "[HIT Web Intellegence Lab](http://wi.hit.edu.cn/)",
-        "summary": "Implemented English part and management Tool of WI IME",
-        "range": "July 2018 - September 2018"
-    },
-    {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v3](https://github.com/HIT-SCIR/ltp/tree/3.X)",
-        "range": "September 2017 -  December 2017"
+        "role": "Support Worker and Custodian",
+        "company": "[Reykjanesbær](https://www.reykjanesbaer.is/is)",
+        "summary": "Supporting kids with special needs and general housekeeping.",
+        "range": "September 2016 - January 2018"
     }
 ]
