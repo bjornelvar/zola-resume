@@ -1,82 +1,40 @@
 [
   {
-    "grouping": "Languages, Operating Systems & Tools",
+    "grouping": "Languages",
     "skills": [
-      "Cplusplus",
-      "Rust",
-      "Java",
       "Python",
-      "git",
-      "linux",
-      "bash",
-      "javascript"
+      "Java",
+      "javascript",
+      "Csharp"
     ]
   },
   {
-    "grouping": "Platform Development & Administration",
+    "grouping": "Operating Systems & Tools",
     "skills": [
-      "NGINX",
-      "MySQL",
+      "Apple",
+      "Figma",
+      "Jupyter",
+      "bash",
+      "git"
+    ]
+  },
+  {
+    "grouping": "Libraries & Frameworks",
+    "skills": [
       {
-        "name": "Slurm",
-        "icon": "bash"
-      }
+        "name": "Pandas",
+        "icon": "python"
+      },
+      "Numpy",
+      "Django",
+      "React",
+      "jQuery"
     ]
   },
   {
     "grouping": "Data Management",
     "skills": [
-      {
-        "name": "MySQL/MariaDB",
-        "icon": "MySQL"
-      },
-      {
-        "name": "Sqlite",
-        "icon": "bash"
-      }
-    ]
-  },
-  {
-    "grouping": "Architecture",
-    "skills": [
-      {
-        "name": "IP Networking",
-        "icon": "bash"
-      },
-      {
-        "name": "DNS",
-        "icon": "bash"
-      },
-      {
-        "name": "Firewalls",
-        "icon": "bash"
-      },
-      {
-        "name": "Load Balancing",
-        "icon": "bash"
-      },
-      {
-        "name": "Microservices",
-        "icon": "bash"
-      },
-      {
-        "name": "RESTful APIs",
-        "icon": "bash"
-      }
-    ]
-  },
-  {
-    "grouping": "Containers & Cloud",
-    "skills": [
-      {
-        "name": "Docker",
-        "link": "https://docker.com"
-      },
-      {
-        "name": "Aliyun",
-        "link": "https://aliyun.com",
-        "icon": "bash"
-      }
+      "PostgreSQL"
     ]
   }
 ]

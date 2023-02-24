@@ -10,6 +10,7 @@
         {% for skill in group.skills %}
         {% if "name" in skill %}
         {% if "icon" in skill %}
+        <!-- https://devicon.dev/ -->
         <span class="icon"><i class="devicon-{{  skill.icon | lower }}-plain"></i></span>{{ skill.name }}
         {% else %}
         <span class="icon"><i class="devicon-{{  skill.name | lower }}-plain"></i></span>{{ skill.name }}

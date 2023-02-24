@@ -1,16 +1,16 @@
 [
     {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Linear algebra, Multivariable calculus, Algorithm",
-        "notes": "Bachelor of Engineering",
-        "range": "2016 - 2020"
+        "school": "[Tækniskólinn (Stúdíó Sýrland)](https://tskoli.is/)",
+        "degree": "Audio Engineering",
+        "major": "",
+        "notes": "",
+        "range": "2018"
     },
     {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Natural language processing",
-        "notes": "Master of Engineering & PhD",
-        "range": "2020 - NOW"
+        "school": "[Reykjavik University](https://ru.is)",
+        "degree": "Computer Science",
+        "major": "",
+        "notes": "Bachelor of Science",
+        "range": "2021 - 2024"
     }
 ]

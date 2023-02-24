@@ -2,12 +2,12 @@
 title: "About"
 ---
 
-### Hi there 👋 I'm Yunlong Feng. A PhD student in Harbin Institute of Technology.
+### Hi! I'm Björn Elvar. I am currently studying Computer Science at the Reykjavik University.
 
-- 🌱 I’m currently learning nlp and rust in [scir](https://ir.hit.edu.cn).
-- 💬 Ask me anything [here](https://github.com/alongwy/alongwy/issues).
-- 📫 How to reach me: [Mail](mailto:ylfeng@ir.hit.edu.cn) [Gmail](mailto:alongwyforever@gmail.com) [Outlook](mailto:alongwyforever@outlook.com)
-- 🐯 My GitHub [Overview](https://github.com/alongwy) and side project [NotCraft](https://notcraft.alongwy.top)
+- 🎧 I am currently obsessed with this [album](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=xQP9Q3bSSoiY4PuMit3hVg).
+<!-- - 💬 Ask me anything [here](https://github.com/alongwy/alongwy/issues). -->
+- 📫 You can email me [here](mailto:bjornelvar@icloud.com).
+<!-- - 🐯 My GitHub [Overview](https://github.com/alongwy) and side project [NotCraft](https://notcraft.alongwy.top) -->
 
-[![Stat](https://github-readme-stats.vercel.app/api?username=alongwy&count_private=true&show_icons=true&line_height=20&theme=default)](https://github.com/alongwy)
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alongwy&layout=compact&hide=HTML,PostScript&theme=default_repocard)](https://github.com/alongwy)
+[![Stat](https://github-readme-stats-bjornelvar.vercel.app/api?username=bjornelvar&card_width=500&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=moltack)](https://github.com/bjornelvar)
+[![Top-Langs](https://github-readme-stats-bjornelvar.vercel.app/api/top-langs/?username=bjornelvar&card_width=450&layout=compact&hide=HTML,PostScript&theme=moltack)](https://github.com/bjornelvar)

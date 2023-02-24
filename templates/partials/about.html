@@ -12,7 +12,7 @@
       {{ section.content | safe }}
     </div>
     <div class="is-hidden-touch">
-      <h3>Certifications</h3>
+      <!-- <h3>Certifications</h3>
       {% set data = load_data(path="data/certifications.json") %}
       {% for item in data %}
       <a href="{{ item.proof }}" data-toggle="tooltip" title="{{ item.name }}" data-offset="0,10" rel="me">
@@ -24,8 +24,8 @@
           {% endif %}
         </figure>
       </a>
-      {% endfor %}
-      <h3>Socialization</h3>
+      {% endfor %} -->
+      <h3>Developer stuff</h3>
       {% set data = load_data(path="data/social.json") %}
       {% for item in data %}
       <a href="{% if item.link is starting_with('http') %}{{ item.link }}{% else %}{{ get_url(path=item.link) }}{% endif %}" style="font-size: 1.75rem;" data-toggle="tooltip" title="{{ item.name }}"

@@ -1,34 +1,14 @@
 [
   {
-    "name": "WeiXin",
-    "link": "img/wechat.png"
-  },
-  {
-    "name": "QQ",
-    "link": "img/qq.png"
-  },
-  {
     "name": "GitHub",
-    "link": "https://github.com/AlongWY"
+    "link": "https://github.com/bjornelvar"
   },
   {
     "name": "Gitlab",
-    "link": "https://gitlab.com/AlongWY"
+    "link": "https://gitlab.com/bjornelvar"
   },
   {
-    "name": "Bitbucket",
-    "link": "https://bitbucket.org/alongwy"
-  },
-  {
-    "name": "Docker",
-    "link": "https://hub.docker.com/u/alongwy"
-  },
-  {
-    "name": "Python",
-    "link": "https://pypi.org/user/ylfeng"
-  },
-  {
-    "name": "Google",
-    "link": "mailto://alongwyforever@outlook.com"
+    "name": "Kattis",
+    "link": "https://open.kattis.com/users/bjornelvar"
   }
 ]
